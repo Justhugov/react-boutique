@@ -1,0 +1,31 @@
+.recap {
+   position  : relative;
+}
+
+
+
+div.recap div.total {
+   border : solid 2px green;
+   margin : auto;
+   width : 98%;
+   padding : 8px 0px;
+   text-align : center;
+   background-color : wheat;
+   position : absolute;
+   bottom : 0px;
+   left : 2px;
+
+}
+
+div.recap div.allProductsInCart{
+    overflow: scroll;
+    height :69%;
+}
+
+div.recap{
+   width: 350px;
+   position : relative;
+   top : 0px;
+   left : 0px;
+}
+
